@@ -1,0 +1,32 @@
+header {
+  background-color: #212529;
+  /* background-color: #141414; */
+}
+
+.text-nav {
+  color: white;
+}
+
+a{
+  text-decoration-line: none;
+}
+
+a:hover {
+  color: #be9a78;
+}
+
+.banner{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#map {
+	height: 350px;
+	width: 100%;
+}
